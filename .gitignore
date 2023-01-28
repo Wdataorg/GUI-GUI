@@ -1,0 +1,6 @@
+.vs
+.vscode
+build
+dist
+Python310
+__pycache__
