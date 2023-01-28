@@ -8,9 +8,10 @@
 [![License](https://img.shields.io/github/license/Wdataorg/GUI-GUI?style=for-the-badge&color=red)](https://shiro.apache.org/license.html) 
 [![Commits](https://img.shields.io/github/commit-activity/m/Wdataorg/GUI-GUI?label=commits&style=for-the-badge&color=blue)](https://github.com/Wdataorg/Wdata/commits "Commit History")
 [![Release version](https://img.shields.io/github/v/release/Wdataorg/GUI-GUI?color=brightgreen&label=Download&style=for-the-badge)](#release-files "Release")
-
+<!--
 <img src="./Teamdev.png" height=200/>
 <img src="./tecthank.png" height=200/> 
+!-->
 
 **本产品不能替代软件开发全过程，只能开发部分前端部分，后端部分仍需用户自行编写**
 
